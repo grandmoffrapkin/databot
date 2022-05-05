@@ -1,0 +1,11 @@
+{
+  "name": "data-bot",
+  "version": "1.0.0",
+  "description": "Don't ask to ask Bot",
+  "main": "bot.js",
+  "author": "kviklyf",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.7.2"
+  }
+}
